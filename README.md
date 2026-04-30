@@ -1,2 +1,7 @@
-# LuanGabriel
-Venha Conhecer Quem É Luan Gabriel Olá tudo bem  meu nome Luan Gabriel, Idade 24 anos Autista Leve Estudante de Engenharia de Computação Futuro Desenvolver de Web Front end e Analista de Segurança de Informações Nível de Idiomas Inglês básico 
+Olá tudo Bem 
+🧑🏻‍💻 Luan Gabriel 
+🎂 24 Anos 
+👨🏻‍🎓 Engenharia de Computação 
+💻 Futuro Desenvolvendor de Front End 
+👨🏻‍💻Futuro Analista de Segurança de Informações
+🧑🏻‍💻Linguagem de Programação HTML,CSS e JAVASCRIPT
